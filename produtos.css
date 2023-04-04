@@ -48,7 +48,7 @@ nav a:hover{
 	padding: 30px 20px;
 	box-sizing: border-box;
 	border: 2px solid #000000;
-	border-radius: 20px;
+	border-radius: 10px;
 }
 
 .produtos li:hover{
@@ -69,13 +69,13 @@ nav a:hover{
 }
 
 .produto-descricao{
-	font-size: 18px;
+	font-size: 22px;
 }
 
 .produto-preco{
 	font-size: 22px;
 	font-weight: bold;
-	margin: 10px;
+	margin-top: 10px;
 }
 
 main {
@@ -122,7 +122,7 @@ form label, form legend {
 	transform: scale(1.05);
 }
 
-.table{
+table{
 	margin: 20px 0 40px;
 }
 
